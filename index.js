@@ -3,6 +3,7 @@ const path = require('path')
 const { Client, Collection, Intents } = require('discord.js');
 const dotenv = require('dotenv');
 __dirname = path.resolve();
+//THIS IS A TEST
 
 dotenv.config()
 
